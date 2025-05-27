@@ -5,21 +5,22 @@
 ## PROJECTE TRANSVERSAL
 
 ### ASIXc 1 A
+<br>
 
-1. **Proposta de CPD sostenible**
-2. **Disseny d'infraestructura elèctrica**
-3. **Disseny d'infraestructura IT**
-4. **Disseny d'infraestructura Sostenibilitat**
-5. **Disseny d'infraestructura Ubicació física**
-6. **Disseny d'infraestructura física i lògica**
-7. **Comparacions Clouds**
-8. **Implementació de servei àudio i vídeo**
-9. **Servidor BBDD**
-10. **Servidor Backups**
-11. **Servidor Monitorització**
-12. **Servidor Web**
-13. **Servidor NFS**
-14. **Sostenibilitat**
+1. [Proposta de CPD sostenible](#proposta-de-cpd-sostenible)
+2. [Disseny d'infraestructura elèctrica](#disseny-dinfraestructura-electrica)
+3. [Disseny d'infraestructura IT](#disseny-dinfraestructura-it)
+4. [Disseny d'infraestructura Sostenibilitat](#disseny-dinfraestructura-sostenibilitat)
+5. [Disseny d'infraestructura Ubicació física](#disseny-dinfraestructura-ubicacio-fisica)
+6. [Disseny d'infraestructura física i lògica](#disseny-dinfraestructura-fisica-i-logica)
+7. [Comparacions Clouds](#comparacions-clouds)
+8. [Implementació de servei àudio i vídeo](#implementacio-de-servei-audio-i-video)
+9. [Servidor BBDD](#servidor-bbdd)
+10. [Servidor Backups](#servidor-backups)
+11. [Servidor Monitorització](#servidor-monitoritzacio)
+12. [Servidor Web](#servidor-web)
+13. [Servidor NFS](#servidor-nfs)
+14. [Sostenibilitat](#sostenibilitat)
 _________________________________________________________________________  
 
 <br>
