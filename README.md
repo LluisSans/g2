@@ -8,7 +8,7 @@
 <br>
 
 [1. Proposta de CPD sostenible](#proposta-de-cpd-sostenible)  
-[2. Disseny d'infraestructura elèctrica](#disseny-dinfraestructura-electrica)  
+[2. Disseny d'infraestructura elèctrica](#https://github.com/LluisSans/g2?tab=readme-ov-file#2-disseny-dinfraestructura-el%C3%A8ctrica)  
 [3. Disseny d'infraestructura IT](#disseny-dinfraestructura-it)  
 [4. Disseny d'infraestructura Sostenibilitat](#disseny-dinfraestructura-sostenibilitat)  
 [5. Disseny d'infraestructura Ubicació física](#disseny-dinfraestructura-ubicacio-fisica)  
