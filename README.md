@@ -825,11 +825,11 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
       S’han desplegat 4 servidors: el d’àudio i vídeo, el de base de dades, el de les còpies de seguretat i el de monitoratge. Tots quatre al núvol d’Amazon AWS amb Ubuntu Server 22.04. Fent servir els protocols TCP, ICMP, SSH, port 3000, 9100 i 9090. S’han obert per permetre la connexió entre servidors i poder efectuar tant les còpies de seguretat com el monitoratge de forma remota.
 
    b. **Quins recursos consumeixen (CPU, RAM, emmagatzematge, amplada de banda):**
-| Servei                | CPU | RAM   | Emmagatzematge | Amplada de banda |
-|-----------------------|-----|-------|----------------|------------------|
-| Servidor Àudio i Vídeo| 2   | 8 GB  | 8 GB           | 0,5 Gbps         |
-| Servidor BBDD         | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |
-| Servidor Backups      | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |
+| Servei                | CPU | RAM   | Emmagatzematge | Amplada de banda |  
+|-----------------------|-----|-------|----------------|------------------|  
+| Servidor Àudio i Vídeo| 2   | 8 GB  | 8 GB           | 0,5 Gbps         |  
+| Servidor BBDD         | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
+| Servidor Backups      | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
 | Servidor Monitoratge   | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
 
 c. **Quina és la previsió d’ús (hores de funcionament, usuaris, tràfic estimat):**  
