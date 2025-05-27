@@ -576,30 +576,66 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 # 9-Disseny i implementació d’una base de dades
 
 - Primer de tot, creem una instància Ubuntu 22.04 des d'AWS.
+<br>
 
+![](photos/19.png)
+<br>
 - Crearem una clau, que en aquest cas l’hi posarem "bbdd".
+<br>
 
+![](photos/20.png)
+<br>
 - Una vegada fet això, creem un grup de seguretat.
+<br>
 
+![](photos/21.png)
+<br>
 - Després, afegirem les regles que considerem oportunes; en aquest cas, SSH i MySQL/Aurora, ja que estem fent un servidor de BBDD.
+<br>
 
+![](photos/22.png)
+<br>
 - Després, farem SSH copiant el que tenim, anant a la instància. Anant a on està SSH client, copiem això, ens n'anem a una màquina Ubuntu, donem privilegis, i posem: SSH -i el nom que tingui la clau i el que continuï després
+<br>
 
-
+![](photos/23.png)
+<br>
+![](photos/24.png)
 - Ara, farem el pas a pas de la base de dades. Primer instal·lem el `mysql-server`.
+<br>
 
+![](photos/25.png)
+<br>
 - Una vegada instal·lada, comencem a crear la base de dades que es dirà "G2".
+<br>
 
+![](photos/26.png)
+<br>
 - Es comença a crear les taules.
+<br>
 
+![](photos/27.png)
+<br>
 - Inserim els departaments.
+<br>
 
+![](photos/28.png)
+<br>
 - Inserim el grup-nivell.
+<br>
 
+![](photos/29.png)
+<br>
 - Inserim els empleats.
+<br>
 
+![](photos/30.png)
+<br>
 ## Explicació de model entitat-relació + gràfic
+<br>
 
+![](photos/31.png)
+<br>
 - **Departament**: És una entitat que representa els departaments de l’empresa. Cada departament té un codi únic (PK), un nom complet i un telèfon.
 
 - **Grup-Nivell**: Representa els grups i nivells laborals. Cada grup té un codi únic (PK) i atributs laborals importants com salari, període de prova i dies de vacances.
