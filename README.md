@@ -134,6 +134,7 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 - **Sortides:** 24 preses combinades C13/C
 - **Capacitat:** 30A, 208V / 4.9 kW
 - **Gestió:** Control remot per presa i pantalla LCD d'alta visibilitat
+!(photos/1.png)
 
 ## 🔧 5. Esquema elèctric del CPD (explicació visual i textual)
 [Xarxa Elèctrica Principal]  
