@@ -682,25 +682,65 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 
 # 11-Servidor Monitoratge
 ## Instal·lació i comprovació:
+<br>
 
+![](photos/38.png)
+<br>
 ## Arxius configuració:
+<br>
 
+![](photos/39.png)
+<br>
+![](photos/40.png)
+<br>
 ## Comprovació:
+<br>
 
+![](photos/41.png)
+<br>
 ## Configuració de les màquines que monitorarem:
+<br>
 
+![](photos/42.png)
+<br>
+![](photos/43.png)
+<br>
 ## Configuració del servei:
+<br>
 
+![](photos/44.png)
+<br>
+![](photos/45.png)
+<br>
 ## Accés al Grafana:
+<br>
 
+![](photos/46.png)
+<br>
 ## Configuració:
+<br>
 
+![](photos/47.png)
+<br>
+![](photos/48.png)
+<br>
+![](photos/49.png)
+<br>
 ## Servidor de Còpies de seguretat:
+<br>
 
+![](photos/50.png)
+<br>
 ## Servidor d'àudio i vídeo:
+<br>
 
+![](photos/51.png)
+<br>
 ## Servidor de Base de Dades:
+<br>
 
+![](photos/52.png)
+<br>
 <br>
 <br>
 
