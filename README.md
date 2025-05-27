@@ -14,11 +14,11 @@
 [5. Disseny d'infraestructura Ubicació física](#disseny-dinfraestructura-ubicacio-fisica)  
 [6. Disseny d'infraestructura física i lògica](#disseny-dinfraestructura-fisica-i-logica)  
 [7. Comparacions Clouds](#comparacions-clouds)  
-[8. Implementació de servei àudio i vídeo](#implementacio-de-servei-audio-i-video)  
+[8. Implementació de servei d'àudio i vídeo](#implementacio-de-servei-audio-i-video)  
 [9. Servidor BBDD](#servidor-bbdd)  
-[10. Servidor Backups](#servidor-backups)  
+[10. Servidor Còpies de seguretat](#servidor-backups)  
 [11. Servidor Monitorització](#servidor-monitoritzacio)  
-[12. Servidor Web](#servidor-web)  
+[12. Servidor WEB](#servidor-web)  
 [13. Servidor NFS](#servidor-nfs)  
 [14. Sostenibilitat](#sostenibilitat)  
 _________________________________________________________________________  
@@ -185,7 +185,7 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 <br>
 
   
-# 3-Disseny d'infraestructura IT
+# 3. Disseny d'infraestructura IT
 
 ✅ **1. Servidors**
 
@@ -287,7 +287,7 @@ Per una xarxa eficient i amb capacitat per gestionar transmissió de dades multi
 <br>
 
 
-# 4-Disseny d'infraestructura Sostenibilitat
+# 4. Disseny d'infraestructura Sostenibilitat
 
 1. ✅ **Per què Islàndia és ideal per a un CPD eficient energèticament?**
 
@@ -328,7 +328,7 @@ Per maximitzar l’eficiència i sostenibilitat del CPD es poden aplicar les seg
 <br>
 
 
-# 5-Disseny d'infraestructura Ubicació física
+# 5. Disseny d'infraestructura Ubicació física
 
 ## Ubicació física
 
@@ -399,7 +399,7 @@ Es disposen 2 racks de 42U segons la següent configuració:
 <br>
 
 
-# 6-Disseny d'infraestructura física i lògica
+# 6. Disseny d'infraestructura física i lògica
 
 ## Seguretat física
 
@@ -490,7 +490,7 @@ La sala CPD compleix amb les mesures de Prevenció de Riscos Laborals exigides p
 <br>
 
 
-# 7-Comparacions Clouds
+# 7. Comparacions Clouds
 
 ## Comparativa de sostenibilitat i eficiència energètica amb altres proveïdors
 
@@ -521,7 +521,7 @@ Tot i que Azure i Google Cloud també ofereixen excel·lents prestacions, AWS de
 <br>
 
 
-# 8-Implementació de servei d'àudio i vídeo
+# 8. Implementació de servei d'àudio i vídeo
 
 ## 1.1. Instal·lar els paquets necessaris
 <br>
@@ -574,7 +574,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 9-Disseny i implementació d’una base de dades
+# 9. Servidor BBDD
 
 - Primer de tot, creem una instància Ubuntu 22.04 des d'AWS.
 <br>
@@ -646,7 +646,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 10-Servidor Còpies de seguretat
+# 10. Servidor Còpies de seguretat
 
 ## Comprovacions:
 <br>
@@ -681,7 +681,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 11-Servidor Monitoratge
+# 11. Servidor Monitorització
 ## Instal·lació i comprovació:
 <br>
 
@@ -745,7 +745,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 12-Servidor WEB
+# 12. Servidor WEB
 ## -Creació de la instància Ubuntu 22.04 des d'AWS
 <br>
 
@@ -784,7 +784,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 13-Servidor NFS
+# 13. Servidor NFS
 ## Instal·lació i configuració del servidor NFS
 <br>
 
@@ -814,7 +814,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 14-Sostenibilitat
+# 14. Sostenibilitat
 
 ## Sostenibilitat i eficiència energètica:
 Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a nosaltres que tot el projecte sigui dissenyat amb un enfocament clar de sostenibilitat. Busquem optimitzar l'ús d'energia i utilitzar solucions que redueixin l'impacte ambiental de les nostres operacions. Ens agradaria explorar l'ús de fonts d'energia renovables, així com la implementació de pràctiques d'eficiència energètica dins del CPD.
