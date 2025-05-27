@@ -1,4 +1,5 @@
 # G2 - Projecte Transversal
+<br>
 ![](photos/1.png)
 ## PROJECTE TRANSVERSAL
 
@@ -134,6 +135,7 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 - **Sortides:** 24 preses combinades C13/C
 - **Capacitat:** 30A, 208V / 4.9 kW
 - **Gestió:** Control remot per presa i pantalla LCD d'alta visibilitat
+<br>
 ![](photos/2.png)
 
 ## 🔧 5. Esquema elèctric del CPD (explicació visual i textual)
@@ -330,7 +332,9 @@ Per maximitzar l’eficiència i sostenibilitat del CPD es poden aplicar les seg
 **Situació física de la sala a l’edifici**
 
 El Centre de Processament de Dades (CPD) d’InnovateTech està ubicat a la ciutat de Reykjavík, Islàndia, dins de l’edifici Höfðatorg, al centre financer i administratiu de la capital. La sala del CPD es troba a la planta subterrània de l’edifici, una zona fresca i protegida que garanteix estabilitat tèrmica i seguretat física. Aquesta planta està dedicada exclusivament a infraestructures crítiques i disposa de sistemes de control d’accés biomètric per evitar intrusions no autoritzades.
-
+<br>
+![](photos/3.png)
+<br>
 ## Sistemes de climatització
 
 Gràcies al clima fred natural d’Islàndia (temperatura mitjana anual de 5 °C), el CPD pot implementar un sistema de refrigeració natural assistida, amb circulació d’aire exterior filtrat. Això redueix la dependència de sistemes actius i el consum energètic global.
@@ -428,8 +432,10 @@ Per garantir la protecció de les instal·lacions i equips crítics del CPD, s'h
 - Vista de les portes d’accés amb controls d’entrada.
 - Rutes d’evacuació.
 
-![Diagrama CPD](ruta_del_diagrama_cp) <!-- substituir 'ruta_del_diagrama_cp' amb la ruta del teu diagrama -->
- 
+<br>
+![Diagrama CPD](photos/3.png)
+<br>
+
 ## Seguretat lògica
 
 La protecció digital és fonamental per evitar atacs i garantir la integritat de les dades:
