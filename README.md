@@ -435,7 +435,14 @@ Per garantir la protecció de les instal·lacions i equips crítics del CPD, s'h
 - Rutes d’evacuació.
 
 <br>
-![Diagrama CPD](photos/3.png)
+
+![Diagrama CPD](photos/4.png)
+
+<br>
+<br>
+
+![Ruta evacuació](photos/5.png)
+
 <br>
 
 ## Seguretat lògica
