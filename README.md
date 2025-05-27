@@ -7,9 +7,9 @@
 ### ASIXc 1 A
 <br>
 
-[1. Proposta de CPD sostenible](#1.Proposta de CPD sostenible)  
-[2. Disseny d'infraestructura elèctrica](#2.Disseny d'infraestructura elèctrica)  
-[3. Disseny d'infraestructura IT](#3.Disseny d'infraestructura IT)  
+[1. Proposta de CPD sostenible](#1.PropostadeCPDsostenible)  
+[2. Disseny d'infraestructura elèctrica](#2.Dissenyd'infraestructuraelèctrica)  
+[3. Disseny d'infraestructura IT](#3.Dissenyd'infraestructuraIT)  
 [4. Disseny d'infraestructura Sostenibilitat](#disseny-dinfraestructura-sostenibilitat)  
 [5. Disseny d'infraestructura Ubicació física](#disseny-dinfraestructura-ubicacio-fisica)  
 [6. Disseny d'infraestructura física i lògica](#disseny-dinfraestructura-fisica-i-logica)  
