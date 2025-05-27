@@ -25,7 +25,7 @@ _________________________________________________________________________
 
 <br>
      
-# 1. Proposta de CPD sostenible  
+## Proposta de CPD sostenible
 
 ## 🔧 1. Infraestructura física
 
