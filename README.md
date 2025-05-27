@@ -746,18 +746,40 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 
 # 12-Servidor WEB
 ## -Creació de la instància Ubuntu 22.04 des d'AWS
+<br>
 
+![](photos/53.png)
+<br>
 ## -La clau serà la mateixa que la del server BBDD
+<br>
 
+![](photos/54.png)
+<br>
 ## El mateix passa amb el grup de seguretat
+<br>
+
+![](photos/55.png)
+<br>
 ## -Donem privilegis a la clau, ens connectem via SSH
+<br>
 
+![](photos/56.png)
+<br>
 ## -Comencem a instal·lar el servidor Web que serà el Apache
+<br>
 
+![](photos/57.png)
+<br>
 ## -Una vegada instal·lat busquem a l'internet, http:// la IP pública d'AWS
+<br>
 
+![](photos/58.png)
+<br>
 ## -Una vegada instal·lat comencem a fer la Web posant per exemple els apartats que tenim
+<br>
 
+![](photos/59.png)
+<br>
 <br>
 <br>
 
