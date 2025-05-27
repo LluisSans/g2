@@ -436,11 +436,13 @@ Per garantir la protecció de les instal·lacions i equips crítics del CPD, s'h
 
 <br>
 
+### Diagrama CPD:
 ![Diagrama CPD](photos/4.png)
 
 <br>
 <br>
 
+### Ruta evacuació:
 ![Ruta evacuació](photos/5.png)
 
 <br>
