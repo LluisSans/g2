@@ -1,6 +1,7 @@
-# G2 - Projecte Transversal
+# G2 - Projecte Transversal  
 <br>
-![](photos/1.png)
+
+![](photos/1.png)  
 ## PROJECTE TRANSVERSAL
 
 ### ASIXc 1 A
@@ -134,8 +135,9 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 - **Format:** 0U (vertical)
 - **Sortides:** 24 preses combinades C13/C
 - **Capacitat:** 30A, 208V / 4.9 kW
-- **Gestió:** Control remot per presa i pantalla LCD d'alta visibilitat
+- **Gestió:** Control remot per presa i pantalla LCD d'alta visibilitat  
 <br>
+
 ![](photos/2.png)
 
 ## 🔧 5. Esquema elèctric del CPD (explicació visual i textual)
