@@ -844,12 +844,12 @@ c. **Quina és la previsió d’ús (hores de funcionament, usuaris, tràfic est
 **Recursos**: [Carbon Trust](https://www.carbontrust.com/)  
 Factors mitjans globals o per regió del proveïdor cloud.
 
-| Element                          | Energia (kWh) | Emissions (kg CO₂eq.) |
-|----------------------------------|---------------|-----------------------|
-| Instància EC2 (t2.large)        | 8.4           | 3.36                  |
-| Tràfic de xarxa (~10 GB)        | 0.05          | 0.02                  |
-| Serveis i processos addicionals  | 1.68          | 0.67                  |
-| **Total estimat (2 setmanes)**  | **10.13**     | **4.05**              |  
+| Element                          | Energia (kWh) | Emissions (kg CO₂eq.) |  
+|----------------------------------|---------------|-----------------------|  
+| Instància EC2 (t2.large)        | 8.4           | 3.36                  |  
+| Tràfic de xarxa (~10 GB)        | 0.05          | 0.02                  |  
+| Serveis i processos addicionals  | 1.68          | 0.67                  |  
+| **Total estimat (2 setmanes)**  | **10.13**     | **4.05**              |    
 
 
 3. **Proposta de mesures de reducció o optimització:**
