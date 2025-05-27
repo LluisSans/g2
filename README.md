@@ -522,27 +522,53 @@ Tot i que Azure i Google Cloud també ofereixen excel·lents prestacions, AWS de
 
 # 8-Implementació de servei d'àudio i vídeo
 
-## 1.1. Instalar los paquetes necesarios
+## 1.1. Instal·lar els paquets necessaris
+<br>
+
+![](photos/6.png)
+<br>
 
 ## 2. Configuració del servidor Icecast2
 
 El fitxer de configuració és `/etc/icecast2/icecast.xml`.
 
-### 2.1. Establir contraseñas
+### 2.1. Establir contrasenyes
+<br>
 
-Aquí hem canviat les contraseñas que usarà el comandament `ffmpeg` per verificar l’enviament del stream.
+![](photos/7.png)
+<br>
+
+Aquí hem canviat les contrasenyes que farà servir la comanda `ffmpeg` per verificar l’enviament del stream.
 
 ### 2.2. Afegir un mount point específic
+<br>
+
+![](photos/8.png)
+<br>
 
 El mount serveix per configurar les propietats del stream.
 
 ### 2.3. Icecast2 en funcionament
+<br>
 
-## 3. Ancho de banda
+![](photos/9.png)
+<br>
 
-En el servidor, com farà de receptor, usarem el comandament: iperf3 -s
+## 3. Ample de banda
 
-I en el client, que serà l'emissor, amb el comandament: iperf3 -c 34.197.87.145
+En el servidor, com farà de receptor, farem servir la comanda: iperf3 -s
+
+<br>
+
+![](photos/10.png)
+<br>
+
+I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
+
+<br>
+
+![](photos/11.png)
+<br>
 
 <br>
 <br>
@@ -551,7 +577,7 @@ I en el client, que serà l'emissor, amb el comandament: iperf3 -c 34.197.87.145
 
 - Primer de tot, creem una instància Ubuntu 22.04 des d'AWS.
 
-- Cream una clau, que en aquest cas l’hi posarem "bbdd".
+- Crearem una clau, que en aquest cas l’hi posarem "bbdd".
 
 - Una vegada fet això, creem un grup de seguretat.
 
@@ -600,7 +626,7 @@ I en el client, que serà l'emissor, amb el comandament: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 11-Servidor Monotorització
+# 11-Servidor Monitoratge
 ## Instal·lació i comprovació:
 
 ## Arxius configuració:
@@ -634,7 +660,7 @@ I en el client, que serà l'emissor, amb el comandament: iperf3 -c 34.197.87.145
 
 ## -Comencem a instal·lar el servidor Web que serà el Apache
 
-## -Una vegada instal·lat busquem a l'internet,http:// laIP pública d'AWS
+## -Una vegada instal·lat busquem a l'internet, http:// la IP pública d'AWS
 
 ## -Una vegada instal·lat comencem a fer la Web posant per exemple els apartats que tenim
 
