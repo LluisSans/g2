@@ -648,17 +648,35 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 # 10-Servidor Còpies de seguretat
 
 ## Comprovacions:
+<br>
 
+![](photos/32.png)
+<br>
 ## Creació directoris de backups:
+<br>
 
+![](photos/33.png)
+<br>
 ## Configuracions:
+<br>
 
+![](photos/34.png)
+<br>
 ## Script Còpies de seguretat del servidor d’àudio i vídeo:
+<br>
 
+![](photos/35.png)
+<br>
 ## Script Còpia de seguretat del servidor de Base de Dades:
+<br>
 
+![](photos/36.png)
+<br>
 ## Comprovacions Còpies de seguretat:
+<br>
 
+![](photos/37.png)
+<br>
 <br>
 <br>
 
