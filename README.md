@@ -785,15 +785,31 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 
 # 13-Servidor NFS
 ## Instal·lació i configuració del servidor NFS
+<br>
 
+![](photos/60.png)
+<br>
+![](photos/61.png)
+<br>
 ## Configuració clients:
+<br>
 
+![](photos/62.png)
+<br>
+![](photos/63.png)
+<br>
 ## Proves:
 
 ## Creació d’un arxiu al client:
+<br>
 
+![](photos/64.png)
+<br>
 ## Comprovació al servidor:
+<br>
 
+![](photos/62.png)
+<br>
 <br>
 <br>
 
