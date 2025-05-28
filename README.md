@@ -863,6 +863,7 @@ c. **Triar regions de núvol més eficients?**
 
 <br>
 <br>
+
 ## 15. Video  
 <br>
 
