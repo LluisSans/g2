@@ -782,7 +782,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 ## Configuració clients:
 <br>
 
-![](photos/62.png)
+![](photos/71.png)
 <br>
 ![](photos/70.png)
 <br>
@@ -791,12 +791,12 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 ## Creació d’un arxiu al client:
 <br>
 
-![](photos/64.png)
+![](photos/72.png)
 <br>
 ## Comprovació al servidor:
 <br>
 
-![](photos/62.png)
+![](photos/73.png)
 <br>
 <br>
 <br>
