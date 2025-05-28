@@ -21,7 +21,7 @@
 [12. Servidor WEB](#12-servidor-web)  
 [13. Servidor NFS](#13-servidor-nfs)  
 [14. Sostenibilitat](#14-sostenibilitat)  
-[15. Video Final](#15-video-final)
+[15. Video](#15-video)
 _________________________________________________________________________  
 
 <br>
