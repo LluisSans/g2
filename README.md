@@ -21,7 +21,7 @@
 [12. Servidor WEB](#12-servidor-web)  
 [13. Servidor NFS](#13-servidor-nfs)  
 [14. Sostenibilitat](#14-sostenibilitat)  
-[15. Video](#15-video)
+[15. Video Final](#15-video-final)
 _________________________________________________________________________  
 
 <br>
@@ -876,7 +876,7 @@ c. **Triar regions de núvol més eficients?**
    Les regions més noves solen tenir infraestructura més eficient energèticament.
 
 
-## 15. Video
+## 15. Video Final
 <br>
 
 ![](video/VídeoFinal.mp4)
