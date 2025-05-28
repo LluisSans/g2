@@ -664,7 +664,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 
 ![](photos/67.png)
 <br>
-## Script Còpies de seguretat d'un servidor:
+## Script Còpies de seguretat servidor d'exemple:
 <br>
 
 ![](photos/35.png)
@@ -695,7 +695,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 
 ![](photos/41.png)
 <br>
-## Configuració de les màquines que monitorarem:
+## Configuració de les màquines clients:
 <br>
 
 ![](photos/42.png)
@@ -723,20 +723,11 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 ![](photos/49.png)
 <br>
-## Servidor de Còpies de seguretat:
+## Servidor de Còpies de seguretat:  
+### Es pot veure com té monitoritzat tots els altres serveis
 <br>
 
-![](photos/50.png)
-<br>
-## Servidor d'àudio i vídeo:
-<br>
-
-![](photos/51.png)
-<br>
-## Servidor de Base de Dades:
-<br>
-
-![](photos/52.png)
+![](photos/68.png)
 <br>
 <br>
 <br>
