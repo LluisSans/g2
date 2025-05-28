@@ -195,11 +195,11 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 Tot i que la major part de la infraestructura residirà al núvol, InnovateTech disposarà d’una
 petita infraestructura local (on-premise) per a serveis crítics o backup local.
 
-| Funció del servidor                      | Model suggerit                   | Característiques clau                                                             |
-|-----------------------------------------|----------------------------------|----------------------------------------------------------------------------------|
-| Servidor d’emmagatzematge (NAS)       | Synology RS1221+                 | CPU AMD Ryzen, 8 bay, eficiència energètica, per a backup local.                 |
-| Servidor de virtualització local        | HPE ProLiant DL360 Gen          | CPU Intel Xeon Scalable, eficiència energètica, suport per VM i containers.      |
-| Servidor de monitoratge / gestió local  | Dell PowerEdge R                 | Baix consum, per a eines com Zabbix/Grafana.                                    |
+| Funció del servidor             | Model suggerit                   | Característiques clau                                                     |
+|---------------------------------|----------------------------------|---------------------------------------------------------------------------|
+| Servidor d’emmagatzematge (NAS) | Synology RS1221+                 | CPU AMD Ryzen, 8 bay, eficiència energètica, per a backup local.          |
+| Servidor de Streaming           | HPE ProLiant DL360 Gen          | CPU Intel Xeon Scalable, eficiència energètica. |
+| Servidor Web / BBDD             | Dell PowerEdge R                 | Baix consum, per a eines com Apache/MySQL.                                |
 
 🔌 **2. Patch Panels**
 
