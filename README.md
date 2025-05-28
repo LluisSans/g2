@@ -657,7 +657,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 ## Creació directoris de backups:
 <br>
 
-![](photos/33.png)
+![](photos/66.png)
 <br>
 ## Configuracions:
 <br>
