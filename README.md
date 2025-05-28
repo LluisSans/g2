@@ -867,5 +867,5 @@ c. **Triar regions de núvol més eficients?**
 ## 15. Video  
 <br>
 
-[Ver el video del proyecto](video/VídeoFinal.mp4)  
+[Video Projecte](video/VídeoFinal.mp4)  
 <br>
