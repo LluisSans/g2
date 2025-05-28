@@ -862,8 +862,8 @@ c. **Triar regions de núvol més eficients?**
    Les regions més noves solen tenir infraestructura més eficient energèticament.
 
 
-## 15. Video
+## 15. Video  
 <br>
 
-![](video/VídeoFinal.mp4)
+[Ver el video del proyecto](video/VídeoFinal.mp4)  
 <br>
