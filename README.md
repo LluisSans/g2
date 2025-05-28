@@ -861,7 +861,8 @@ c. **Triar regions de núvol més eficients?**
    - Reduir el consum de xarxa i potència computacional necessària.  
    Les regions més noves solen tenir infraestructura més eficient energèticament.
 
-
+<br>
+<br>
 ## 15. Video  
 <br>
 
