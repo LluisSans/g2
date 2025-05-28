@@ -777,7 +777,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 
 ![](photos/60.png)
 <br>
-![](photos/61.png)
+![](photos/69.png)
 <br>
 ## Configuració clients:
 <br>
