@@ -662,17 +662,12 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 ## Configuracions:
 <br>
 
-![](photos/34.png)
+![](photos/67.png)
 <br>
-## Script Còpies de seguretat del servidor d’àudio i vídeo:
+## Script Còpies de seguretat d'un servidor:
 <br>
 
 ![](photos/35.png)
-<br>
-## Script Còpia de seguretat del servidor de Base de Dades:
-<br>
-
-![](photos/36.png)
 <br>
 ## Comprovacions Còpies de seguretat:
 <br>
