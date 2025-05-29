@@ -825,8 +825,7 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
 
 ## Càlcul de la petjada ecològica del projecte realitzat:
 
-1. **Identificar els recursos emprats:**
-<br>
+1. **Identificar els recursos emprats:**  
    a. **Quins serveis han desplegat (tipus de màquines, serveis de núvol, protocols):**  
       S’han desplegat 6 servidors: el d’àudio i vídeo, el de base de dades, el de les còpies de seguretat, el d'NFS, el de web i el de monitoratge. Tots sis al núvol d’Amazon AWS amb Ubuntu Server 22.04. Fent servir els protocols TCP, ICMP, SSH, port 3000, 9100 i 9090. S’han obert per permetre la connexió entre servidors i poder efectuar tant les còpies de seguretat com el monitoratge de forma remota.
 
