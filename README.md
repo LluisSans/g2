@@ -4,7 +4,8 @@
 ![](photos/1.png)  
 ## PROJECTE TRANSVERSAL
 
-### ASIXc 1 A        GRUP2
+### ASIXc 1 A  
+### GRUP2  
 ##### Lluís, Kevin, Cesc, Jan
 <br>
 
