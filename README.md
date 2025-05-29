@@ -7,21 +7,21 @@
 ### ASIXc 1 A
 <br>
 
-[1.1 Proposta de CPD sostenible](#proposta-de-cpd-sostenible)  
-[1.2 Disseny d'infraestructura elèctrica](#2-disseny-dinfraestructura-elèctrica)  
-[1.3 Disseny d'infraestructura IT](#3-disseny-dinfraestructura-it)  
-[1.4 Disseny d'infraestructura Sostenibilitat](#4-disseny-dinfraestructura-sostenibilitat)  
-[1.5 Disseny d'infraestructura Ubicació física](#5-disseny-dinfraestructura-ubicació-física)  
-[1.6 Disseny d'infraestructura física i lògica](#6-disseny-dinfraestructura-física-i-lògica)  
-[1.7 Comparacions Clouds](#7-comparacions-clouds)  
-[2.1 Implementació de servei d'àudio i vídeo](#8-implementació-de-servei-dàudio-i-vídeo)  
-[3.1 Servidor BBDD](#9-servidor-bbdd)  
-[3.2 Servidor Còpies de seguretat](#10-servidor-còpies-de-seguretat)  
-[3.3 Servidor Monitoratge](#11-servidor-monitorització)  
-[3.4 Servidor WEB](#12-servidor-web)  
-[3.5 Servidor NFS](#13-servidor-nfs)  
-[4.1 Sostenibilitat](#14-sostenibilitat)  
-[5.1 Video](#15-video)  
+[1.1 Proposta de CPD sostenible](#11-proposta-de-cpd-sostenible)  
+[1.2 Disseny d'infraestructura elèctrica](#12-disseny-dinfraestructura-elèctrica)  
+[1.3 Disseny d'infraestructura IT](#13-disseny-dinfraestructura-it)  
+[1.4 Disseny d'infraestructura Sostenibilitat](#14-disseny-dinfraestructura-sostenibilitat)  
+[1.5 Disseny d'infraestructura Ubicació física](#15-disseny-dinfraestructura-ubicació-física)  
+[1.6 Disseny d'infraestructura física i lògica](#16-disseny-dinfraestructura-física-i-lògica)  
+[1.7 Comparacions Clouds](#17-comparacions-clouds)  
+[2.1 Implementació de servei d'àudio i vídeo](#21-implementació-de-servei-dàudio-i-vídeo)  
+[3.1 Servidor BBDD](#31-servidor-bbdd)  
+[3.2 Servidor Còpies de seguretat](#32-servidor-còpies-de-seguretat)  
+[3.3 Servidor Monitoratge](#33-servidor-monitoratge)  
+[3.4 Servidor WEB](#34-servidor-web)  
+[3.5 Servidor NFS](#35-servidor-nfs)  
+[4.1 Sostenibilitat](#35-servidor-nfs)  
+[5.1 Video](#51-video)  
 <br>
 <br>
 _________________________________________________________________________  
