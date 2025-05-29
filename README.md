@@ -888,7 +888,7 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
 ## 5. Video
 [⬆️](#projecte-transversal)
 <br>
-### Aquest és el nostre vídeo del funcionament dels serveis instal·lats:  
+#### Aquest és el nostre vídeo del funcionament dels serveis instal·lats:  
 
 [Video Projecte](video/VídeoFinal.mp4)  
 <br>
