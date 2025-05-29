@@ -28,7 +28,7 @@ _________________________________________________________________________
 
 <br>
      
-## 1.1 Proposta de CPD sostenible
+## 1. Proposta de CPD sostenible
 
 ## 🔧 1. Infraestructura física
 
@@ -82,7 +82,7 @@ El CPD està ubicat a Reykjavík (Islàndia), aprofitant el clima fred natural d
 <br>
 
   
-# 1.2 Disseny d'infraestructura elèctrica
+# 1.1 Disseny d'infraestructura elèctrica
 
 ## 🔁 1. Sistemes d’alimentació redundant
 Per garantir la disponibilitat i continuïtat del servei, la infraestructura tindrà:
@@ -188,7 +188,7 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 <br>
 
   
-# 1.3 Disseny d'infraestructura IT
+# 1.2 Disseny d'infraestructura IT
 
 ✅ **1. Servidors**
 
@@ -290,7 +290,7 @@ Per una xarxa eficient i amb capacitat per gestionar transmissió de dades multi
 <br>
 
 
-# 1.4 Disseny d'infraestructura Sostenibilitat
+# 1.3 Disseny d'infraestructura Sostenibilitat
 
 1. ✅ **Per què Islàndia és ideal per a un CPD eficient energèticament?**
 
@@ -331,7 +331,7 @@ Per maximitzar l’eficiència i sostenibilitat del CPD es poden aplicar les seg
 <br>
 
 
-# 1.5 Disseny d'infraestructura Ubicació física
+# 1.4 Disseny d'infraestructura Ubicació física
 
 ## Ubicació física
 
@@ -402,7 +402,7 @@ Es disposen 2 racks de 42U segons la següent configuració:
 <br>
 
 
-# 1.6 Disseny d'infraestructura física i lògica
+# 1.5 Disseny d'infraestructura física i lògica
 
 ## Seguretat física
 
@@ -493,7 +493,7 @@ La sala CPD compleix amb les mesures de Prevenció de Riscos Laborals exigides p
 <br>
 
 
-# 1.7 Comparacions Clouds
+# 1.6 Comparacions Clouds
 
 ## Comparativa de sostenibilitat i eficiència energètica amb altres proveïdors
 
@@ -524,7 +524,7 @@ Tot i que Azure i Google Cloud també ofereixen excel·lents prestacions, AWS de
 <br>
 
 
-# 2.1 Implementació de servei d'àudio i vídeo
+# 2. Implementació de servei d'àudio i vídeo
 
 ## 1.1. Instal·lar els paquets necessaris
 <br>
@@ -577,7 +577,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3.1 Servidor BBDD
+# 3. Servidor BBDD
 
 - Primer de tot, creem una instància Ubuntu 22.04 des d'AWS.
 <br>
@@ -649,7 +649,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3.2 Servidor Còpies de seguretat
+# 3.1 Servidor Còpies de seguretat
 
 ## Comprovacions:
 <br>
@@ -679,7 +679,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3.3 Servidor Monitoratge
+# 3.2 Servidor Monitoratge
 ## Instal·lació i comprovació:
 <br>
 
@@ -734,7 +734,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3.4 Servidor WEB
+# 3.3 Servidor WEB
 ## -Creació de la instància Ubuntu 22.04 des d'AWS
 <br>
 
@@ -773,7 +773,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3.5 Servidor NFS
+# 3.4 Servidor NFS
 ## Instal·lació i configuració del servidor NFS
 <br>
 
@@ -803,7 +803,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 4.1 Sostenibilitat
+# 4. Sostenibilitat
 
 ## Sostenibilitat i eficiència energètica:
 Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a nosaltres que tot el projecte sigui dissenyat amb un enfocament clar de sostenibilitat. Busquem optimitzar l'ús d'energia i utilitzar solucions que redueixin l'impacte ambiental de les nostres operacions. Ens agradaria explorar l'ús de fonts d'energia renovables, així com la implementació de pràctiques d'eficiència energètica dins del CPD.
@@ -870,7 +870,7 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
 <br>
 <br>
 
-## 5.1 Video  
+## 5. Video  
 <br>
 
 [Video Projecte](video/VídeoFinal.mp4)  
