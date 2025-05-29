@@ -843,6 +843,7 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
    <br>
 
    c. **Quina és la previsió d’ús (hores de funcionament, usuaris, tràfic estimat):**  
+        Previsió d’ús: Funcionament continu de 24/7 (8.760 h/any), amb entre 20 i 50 usuaris simultanis estimats. Tràfic mitjà previst: 200–500 Mbps, amb pics de fins a 1,75 Gbps. S’ha optat per maquinari eficient i automatització d’aturades per reduir el consum i garantir la sostenibilitat a llarg termini.
 
 2. **Estimar el consum energètic i la petjada de carboni:**
    - Estimar el consum energètic de:
