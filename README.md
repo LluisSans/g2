@@ -872,7 +872,7 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
 <br>
 <br>
 
-## 5. Video    [⬆️](#projecte-transversal)
+## 5. Video[⬆️](#projecte-transversal)
 <br>
 
 [Video Projecte](video/VídeoFinal.mp4)  
