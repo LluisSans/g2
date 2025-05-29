@@ -85,8 +85,9 @@ El CPD està ubicat a Reykjavík (Islàndia), aprofitant el clima fred natural d
 <br>
 
   
-# 1.1 Disseny d'infraestructura elèctrica  [⬆️](#projecte-transversal)
+# 1.1 Disseny d'infraestructura elèctrica
 
+[⬆️](#projecte-transversal)
 ## 🔁 1. Sistemes d’alimentació redundant
 Per garantir la disponibilitat i continuïtat del servei, la infraestructura tindrà:
 - ✔️ **Doble línia d'alimentació elèctrica:**
@@ -191,8 +192,9 @@ Garantir mínim 15 minuts per aturar serveis o activar generador.
 <br>
 
   
-# 1.2 Disseny d'infraestructura IT  [⬆️](#projecte-transversal)
+# 1.2 Disseny d'infraestructura IT
 
+[⬆️](#projecte-transversal)
 ✅ **1. Servidors**
 
 Tot i que la major part de la infraestructura residirà al núvol, InnovateTech disposarà d’una
@@ -293,8 +295,9 @@ Per una xarxa eficient i amb capacitat per gestionar transmissió de dades multi
 <br>
 
 
-# 1.3 Disseny d'infraestructura Sostenibilitat  [⬆️](#projecte-transversal)
+# 1.3 Disseny d'infraestructura Sostenibilitat
 
+[⬆️](#projecte-transversal)
 1. ✅ **Per què Islàndia és ideal per a un CPD eficient energèticament?**
 
 - **És 100% energia renovable:** Islàndia produeix pràcticament tota la seva energia amb fonts netes: geotèrmica i hidroelèctrica. Això redueix notablement la petjada de carboni associada al funcionament del CPD.
@@ -334,8 +337,9 @@ Per maximitzar l’eficiència i sostenibilitat del CPD es poden aplicar les seg
 <br>
 
 
-# 1.4 Disseny d'infraestructura Ubicació física  [⬆️](#projecte-transversal)
+# 1.4 Disseny d'infraestructura Ubicació física
 
+[⬆️](#projecte-transversal)
 ## Ubicació física
 
 **Situació física de la sala a l’edifici**
@@ -405,8 +409,9 @@ Es disposen 2 racks de 42U segons la següent configuració:
 <br>
 
 
-# 1.5 Disseny d'infraestructura física i lògica  [⬆️](#projecte-transversal)
+# 1.5 Disseny d'infraestructura física i lògica
 
+[⬆️](#projecte-transversal)
 ## Seguretat física
 
 Per garantir la protecció de les instal·lacions i equips crítics del CPD, s'han incorporat els següents elements de seguretat:
@@ -496,8 +501,9 @@ La sala CPD compleix amb les mesures de Prevenció de Riscos Laborals exigides p
 <br>
 
 
-# 1.6 Comparacions Clouds  [⬆️](#projecte-transversal)
+# 1.6 Comparacions Clouds
 
+[⬆️](#projecte-transversal)
 ## Comparativa de sostenibilitat i eficiència energètica amb altres proveïdors
 
 | Proveïdor      | % Energia Renovable | Certificacions Sostenibles                     | Tecnologies d’Eficiència                     | Comentaris                                           |
@@ -527,8 +533,9 @@ Tot i que Azure i Google Cloud també ofereixen excel·lents prestacions, AWS de
 <br>
 
 
-# 2. Implementació de servei d'àudio i vídeo  [⬆️](#projecte-transversal)
+# 2. Implementació de servei d'àudio i vídeo
 
+[⬆️](#projecte-transversal)
 ## 1.1. Instal·lar els paquets necessaris
 <br>
 
@@ -580,8 +587,9 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3. Servidor BBDD  [⬆️](#projecte-transversal)
+# 3. Servidor BBDD
 
+[⬆️](#projecte-transversal)
 - Primer de tot, creem una instància Ubuntu 22.04 des d'AWS.
 <br>
 
@@ -652,8 +660,9 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 <br>
 
-# 3.1 Servidor Còpies de seguretat  [⬆️](#projecte-transversal)
+# 3.1 Servidor Còpies de seguretat
 
+[⬆️](#projecte-transversal)
 ## Comprovacions:
 <br>
 
@@ -683,6 +692,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 
 # 3.2 Servidor Monitoratge  
+[⬆️](#projecte-transversal)
 ## Instal·lació i comprovació:
 <br>
 
@@ -738,6 +748,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 
 # 3.3 Servidor WEB
+[⬆️](#projecte-transversal)
 ## -Creació de la instància Ubuntu 22.04 des d'AWS
 <br>
 
@@ -777,6 +788,7 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 
 # 3.4 Servidor NFS
+[⬆️](#projecte-transversal)
 ## Instal·lació i configuració del servidor NFS
 <br>
 
@@ -807,7 +819,6 @@ I en el client, que serà l'emissor, amb la comanda: iperf3 -c 34.197.87.145
 <br>
 
 # 4. Sostenibilitat
-
 [⬆️](#projecte-transversal)
 ## Sostenibilitat i eficiència energètica:
 Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a nosaltres que tot el projecte sigui dissenyat amb un enfocament clar de sostenibilitat. Busquem optimitzar l'ús d'energia i utilitzar solucions que redueixin l'impacte ambiental de les nostres operacions. Ens agradaria explorar l'ús de fonts d'energia renovables, així com la implementació de pràctiques d'eficiència energètica dins del CPD.
@@ -875,6 +886,7 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
 <br>
 
 ## 5. Video
+[⬆️](#projecte-transversal)
 <br>
 
 [Video Projecte](video/VídeoFinal.mp4)  
