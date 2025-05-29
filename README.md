@@ -8,21 +8,21 @@
 ##### Lluís, Kevin, Cesc, Jan
 <br>
 
-1. [Proposta de CPD sostenible](#proposta-de-cpd-sostenible)
-   - [1.1 Disseny d'infraestructura elèctrica](#disseny-dinfraestructura-electrica)
-   - [1.2 Disseny d'infraestructura IT](#disseny-dinfraestructura-it)
-   - [1.3 Disseny d'infraestructura Sostenibilitat](#disseny-dinfraestructura-sostenibilitat)
-   - [1.4 Disseny d'infraestructura Ubicació física](#disseny-dinfraestructura-ubicacio-fisica)
-   - [1.5 Disseny d'infraestructura física i lògica](#disseny-dinfraestructura-fisica-i-logica)
-   - [1.6 Comparacions Clouds](#comparacions-clouds)
-2. [Implementació de servei d'àudio i vídeo](#implementacio-de-servei-daudio-i-video)
-3. [Servidor BBDD](#servidor-bbdd)
-   - [3.1 Servidor Còpies de seguretat](#servidor-copies-de-seguretat)
-   - [3.2 Servidor Monitoratge](#servidor-monitoratge)
-   - [3.3 Servidor WEB](#servidor-web)
-   - [3.4 Servidor NFS](#servidor-nfs)
-4. [Sostenibilitat](#sostenibilitat)
-5. [Video](#video)
+1. [Proposta de CPD sostenible](#1-proposta-de-cpd-sostenible)
+   - [1.1 Disseny d'infraestructura elèctrica](#11-disseny-dinfraestructura-elèctrica)
+   - [1.2 Disseny d'infraestructura IT](#12-disseny-dinfraestructura-it)
+   - [1.3 Disseny d'infraestructura Sostenibilitat](#13-disseny-dinfraestructura-sostenibilitat)
+   - [1.4 Disseny d'infraestructura Ubicació física](#14-disseny-dinfraestructura-ubicació-física)
+   - [1.5 Disseny d'infraestructura física i lògica](#15-disseny-dinfraestructura-física-i-lògica)
+   - [1.6 Comparacions Clouds](#16-comparacions-clouds)
+2. [Implementació de servei d'àudio i vídeo](#2-implementació-de-servei-dàudio-i-vídeo)
+3. [Servidor BBDD](#3-servidor-bbdd)
+   - [3.1 Servidor Còpies de seguretat](#31-servidor-còpies-de-seguretat)
+   - [3.2 Servidor Monitoratge](#32-servidor-monitoratge)
+   - [3.3 Servidor WEB](#33-servidor-web)
+   - [3.4 Servidor NFS](#34-servidor-nfs)
+4. [Sostenibilitat](#4-sostenibilitat)
+5. [Video](#5-video)
 <br>
 <br>
 _________________________________________________________________________  
