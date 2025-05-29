@@ -843,7 +843,6 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
    <br>
 
    c. **Quina és la previsió d’ús (hores de funcionament, usuaris, tràfic estimat):**  
-   Està pensat per tenir els servidors 24/7 almenys dues setmanes (el que dura el projecte). Hi haurà 4 usuaris (els integrants del grup). El tràfic estima 10 GB en tot el temps que duri.
 
 2. **Estimar el consum energètic i la petjada de carboni:**
    - Estimar el consum energètic de:
