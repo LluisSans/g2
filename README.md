@@ -20,7 +20,7 @@
 [3.3 Servidor Monitoratge](#33-servidor-monitoratge)  
 [3.4 Servidor WEB](#34-servidor-web)  
 [3.5 Servidor NFS](#35-servidor-nfs)  
-[4.1 Sostenibilitat](#35-servidor-nfs)  
+[4.1 Sostenibilitat](#41-sostenibilitat)  
 [5.1 Video](#51-video)  
 <br>
 <br>
