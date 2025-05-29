@@ -851,15 +851,15 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
      - El tràfic generat pel streaming (considerant, per exemple, watts per GB transferit).
      - El consum dels servidors virtuals o serveis en funcionament contínuament. Utilitzar factors d’equivalència per convertir energia (kWh) en emissions (kg CO₂ eq.).
 
-   **Recursos**:  
-   Factors mitjans globals o per regió del proveïdor cloud.
+**Recursos:**  
+Factors mitjans globals segons el proveïdor cloud (AWS) en regions amb energia renovable.
 
-   | Element                          | Energia (kWh) | Emissions (kg CO₂eq.) |  
-   |----------------------------------|---------------|-----------------------|  
-   | Instància EC2 (t2.large)        | 8.4           | 3.36                  |  
-   | Tràfic de xarxa (~10 GB)        | 0.05          | 0.02                  |  
-   | Serveis i processos addicionals  | 1.68          | 0.67                  |  
-   | **Total estimat (2 setmanes)**  | **10.13**     | **4.05**              |    
+| Element                            | Energia (kWh) | Emissions (kg CO₂eq.) |
+|------------------------------------|---------------|------------------------|
+| Instàncies EC2 (6 servidors x 8.4) | 50.4          | 20.16                  |
+| Tràfic de xarxa (~1 TB/mes)        | 5.00          | 2.00                   |
+| Serveis i processos addicionals    | 10.00         | 4.00                   |
+| **Total estimat (1 mes)**          | **65.4**      | **26.16**              |
 
 3. **Proposta de mesures de reducció o optimització:**
    a. **Reduir hores de funcionament?**  
@@ -871,7 +871,6 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
       **Proposta:** Utilitzar regions cloud amb compromís de zero emissions o energia renovable certificada.  
       AWS té regions amb energia verda:
       - Irlanda (eu-west-1)
-      - Oregon (us-west-2)
       - Suècia (eu-north-1)  
       GCP i Azure també ofereixen opcions 100% renovables en regions específiques.  
       **Benefici:** Pot reduir la petjada de carboni a pràcticament zero segons el proveïdor.
