@@ -30,7 +30,7 @@ _________________________________________________________________________
 
 <br>
      
-## 1. Proposta de CPD sostenible&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[⬆️](#projecte-transversal)
+## 1. Proposta de CPD sostenible&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[⬆️](#projecte-transversal)
 
 ## 🔧 1. Infraestructura física
 
