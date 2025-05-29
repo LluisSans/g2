@@ -5,7 +5,7 @@
 ## PROJECTE TRANSVERSAL
 
 ### ASIXc 1 A        GRUP2
-## Lluís, Kevin, Cesc, Jan
+### Lluís, Kevin, Cesc, Jan
 <br>
 
 1. [Proposta de CPD sostenible](#proposta-de-cpd-sostenible)
