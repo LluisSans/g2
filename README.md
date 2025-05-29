@@ -812,56 +812,60 @@ Alineant-nos amb els nostres valors empresarials i els ODS, és fonamental per a
 
 1. **Identificar els recursos emprats:**
    a. **Quins serveis han desplegat (tipus de màquines, serveis de núvol, protocols):**  
-      S’han desplegat 4 servidors: el d’àudio i vídeo, el de base de dades, el de les còpies de seguretat i el de monitoratge. Tots quatre al núvol d’Amazon AWS amb Ubuntu Server 22.04. Fent servir els protocols TCP, ICMP, SSH, port 3000, 9100 i 9090. S’han obert per permetre la connexió entre servidors i poder efectuar tant les còpies de seguretat com el monitoratge de forma remota.
+      S’han desplegat 6 servidors: el d’àudio i vídeo, el de base de dades, el de les còpies de seguretat, el d'NFS, el de web i el de monitoratge. Tots sis al núvol d’Amazon AWS amb Ubuntu Server 22.04. Fent servir els protocols TCP, ICMP, SSH, port 3000, 9100 i 9090. S’han obert per permetre la connexió entre servidors i poder efectuar tant les còpies de seguretat com el monitoratge de forma remota.
 
    b. **Quins recursos consumeixen (CPU, RAM, emmagatzematge, amplada de banda):**
-| Servei                | CPU | RAM   | Emmagatzematge | Amplada de banda |  
-|-----------------------|-----|-------|----------------|------------------|  
-| Servidor Àudio i Vídeo| 2   | 8 GB  | 8 GB           | 0,5 Gbps         |  
-| Servidor BBDD         | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
-| Servidor Backups      | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
-| Servidor Monitoratge   | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
 
-c. **Quina és la previsió d’ús (hores de funcionament, usuaris, tràfic estimat):**  
+   | Servei                | CPU | RAM   | Emmagatzematge | Amplada de banda |  
+   |-----------------------|-----|-------|----------------|------------------|  
+   | Servidor Àudio i Vídeo| 2   | 8 GB  | 8 GB           | 0,5 Gbps         |  
+   | Servidor BBDD         | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
+   | Servidor Backups      | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
+   | Servidor Monitoratge  | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
+   | Servidor Web          | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
+   | Servidor NFS          | 1   | 1 GB  | 8 GB           | 0,25 Gbps        |  
+
+   <br>
+
+   c. **Quina és la previsió d’ús (hores de funcionament, usuaris, tràfic estimat):**  
    Està pensat per tenir els servidors 24/7 almenys dues setmanes (el que dura el projecte). Hi haurà 4 usuaris (els integrants del grup). El tràfic estima 10 GB en tot el temps que duri.
 
 2. **Estimar el consum energètic i la petjada de carboni:**
-- Estimar el consum energètic de:
-  - Les instàncies del núvol (pot utilitzar valors aproximats o eines del proveïdor com la Carbon Footprint Calculator d'AWS o similars de GCP/Azure).
-  - El tràfic generat pel streaming (considerant, per exemple, watts per GB transferit).
-  - El consum dels servidors virtuals o serveis en funcionament contínuament. Utilitzar factors d’equivalència per convertir energia (kWh) en emissions (kg CO₂ eq.).
+   - Estimar el consum energètic de:
+     - Les instàncies del núvol (pot utilitzar valors aproximats o eines del proveïdor com la Carbon Footprint Calculator d'AWS o similars de GCP/Azure).
+     - El tràfic generat pel streaming (considerant, per exemple, watts per GB transferit).
+     - El consum dels servidors virtuals o serveis en funcionament contínuament. Utilitzar factors d’equivalència per convertir energia (kWh) en emissions (kg CO₂ eq.).
 
-**Recursos**: [Carbon Trust](https://www.carbontrust.com/)  
-Factors mitjans globals o per regió del proveïdor cloud.
+   **Recursos**:  
+   Factors mitjans globals o per regió del proveïdor cloud.
 
-| Element                          | Energia (kWh) | Emissions (kg CO₂eq.) |  
-|----------------------------------|---------------|-----------------------|  
-| Instància EC2 (t2.large)        | 8.4           | 3.36                  |  
-| Tràfic de xarxa (~10 GB)        | 0.05          | 0.02                  |  
-| Serveis i processos addicionals  | 1.68          | 0.67                  |  
-| **Total estimat (2 setmanes)**  | **10.13**     | **4.05**              |    
-
+   | Element                          | Energia (kWh) | Emissions (kg CO₂eq.) |  
+   |----------------------------------|---------------|-----------------------|  
+   | Instància EC2 (t2.large)        | 8.4           | 3.36                  |  
+   | Tràfic de xarxa (~10 GB)        | 0.05          | 0.02                  |  
+   | Serveis i processos addicionals  | 1.68          | 0.67                  |  
+   | **Total estimat (2 setmanes)**  | **10.13**     | **4.05**              |    
 
 3. **Proposta de mesures de reducció o optimització:**
-a. **Reduir hores de funcionament?**  
-   **Proposta:** Automatitzar l’aturada de les instàncies fora de l’horari d’ús efectiu (ex. nits o caps de setmana si no hi ha activitat).  
-   **Benefici:** Reducció del consum energètic fins a un 30–50%, depenent del patró d’ús real.  
-   **Eina recomanada:** AWS Instance Scheduler (programació d’aturades/arrencades).
+   a. **Reduir hores de funcionament?**  
+      **Proposta:** Automatitzar l’aturada de les instàncies fora de l’horari d’ús efectiu (ex. nits o caps de setmana si no hi ha activitat).  
+      **Benefici:** Reducció del consum energètic fins a un 30–50%, depenent del patró d’ús real.  
+      **Eina recomanada:** AWS Instance Scheduler (programació d’aturades/arrencades).
 
-b. **Utilitzar serveis amb energia renovable?**  
-   **Proposta:** Utilitzar regions cloud amb compromís de zero emissions o energia renovable certificada.  
-   AWS té regions amb energia verda:
-   - Irlanda (eu-west-1)
-   - Oregon (us-west-2)
-   - Suècia (eu-north-1)  
-   GCP i Azure també ofereixen opcions 100% renovables en regions específiques.  
-   **Benefici:** Pot reduir la petjada de carboni a pràcticament zero segons el proveïdor.
+   b. **Utilitzar serveis amb energia renovable?**  
+      **Proposta:** Utilitzar regions cloud amb compromís de zero emissions o energia renovable certificada.  
+      AWS té regions amb energia verda:
+      - Irlanda (eu-west-1)
+      - Oregon (us-west-2)
+      - Suècia (eu-north-1)  
+      GCP i Azure també ofereixen opcions 100% renovables en regions específiques.  
+      **Benefici:** Pot reduir la petjada de carboni a pràcticament zero segons el proveïdor.
 
-c. **Triar regions de núvol més eficients?**  
-   **Proposta:** Seleccionar regions properes als usuaris per:
-   - Minimitzar latència.
-   - Reduir el consum de xarxa i potència computacional necessària.  
-   Les regions més noves solen tenir infraestructura més eficient energèticament.
+   c. **Triar regions de núvol més eficients?**  
+      **Proposta:** Seleccionar regions properes als usuaris per:
+      - Minimitzar latència.
+      - Reduir el consum de xarxa i potència computacional necessària.  
+      Les regions més noves solen tenir infraestructura més eficient energèticament.
 
 <br>
 <br>
